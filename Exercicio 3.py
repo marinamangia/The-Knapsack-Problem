@@ -44,5 +44,3 @@ for i in S:
 prob.solve()
 
 print("total revenue:", prob.objective.value())
-
-"--"
